@@ -1,0 +1,6 @@
+Database: orders  Wildcard: order_items
++-------------+
+|   Tables    |
++-------------+
+| order_items |
++-------------+
