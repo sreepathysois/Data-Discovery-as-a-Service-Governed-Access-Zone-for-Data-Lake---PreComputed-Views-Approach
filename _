@@ -1,0 +1,28 @@
+body {
+background-color: lightblue;
+}
+
+.nav {
+}
+
+.nav h1 {
+}
+
+.nav .tabs {
+}
+
+.nav .tabs .tab-button {
+}
+
+.nav .tabs .tab-button:hover {
+}
+
+.nav .tabs .tab-button:active {
+}
+
+.dashboard {
+}
+
+.modebar{
+    display: none !important;
+}
